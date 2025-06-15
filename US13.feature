@@ -1,4 +1,4 @@
-Feature: US04 - Navegación por iconos intuitivos
+Feature: US13 - Navegación por iconos intuitivos
 Como usuario
 Quiero que los íconos dentro de la app sean claros e intuitivos, 
 para navegar fácilmente sin confusión.

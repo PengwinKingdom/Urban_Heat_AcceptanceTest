@@ -1,4 +1,3 @@
-d
 Feature: US04 - Recomendaciones personalizadas
 Como usuario
 Quiero recibir consejos adaptados a mi edad y ocupación 

@@ -1,5 +1,6 @@
 # Urban_Heat_AcceptanceTest
 Archivos .feature de pruebas de aceptación
+
 Feature: US04 - Recomendaciones personalizadas
 Como usuario
 Quiero recibir consejos adaptados a mi edad y ocupación 

@@ -1,5 +1,3 @@
-# Urban_Heat_AcceptanceTest
-Archivos .feature de pruebas de aceptación
 
 Feature: US04 - Recomendaciones personalizadas
 Como usuario
@@ -15,3 +13,5 @@ Scenario 02:  Recomendaciones genéricas
     Given que no haya configurado mi perfil,
     When revise los consejos,
     Then veré recomendaciones generales
+
+
